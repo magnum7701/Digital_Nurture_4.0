@@ -1,0 +1,28 @@
+1 a. Explain Big O notation and how it helps in analyzing algorithms.Add commentMore actions
+
+Solution:
+- Big O notation denotes the worst case time or space complexity of an algorithm
+- Denotes how the time/space req grows with increase in n (size) of elements stored
+
+
+
+ b. Describe the best, average, and worst-case scenarios for search operations.
+
+Solution:
+- There are mainly two types of search operations:
+    - Linear Search
+    - Binary Search
+
+- For linear search- The time compexity in worst and average case is O(n), and for best case is O(1). Space complexiy is O(1)
+- For binary search- The time complexity in worst and average case if O(n), and for best case is O(1) (sorted). For iterative approach, space complexity is O(1)
+
+
+
+4 a.
+ -> Compare the time complexity of linear and binary search algorithms.
+ -> Discuss which algorithm is more suitable for your platform and why.
+
+Solution:
+- For linear search- The time compexity in worst and average case is O(n), and for best case is O(1).
+- For binary search- The time complexity in worst and average case if O(n), and for best case is O(1) (sorted).
+- For out platform, binary search is more suitable because if our company grows, and db becomes large, binary search will be more efficient as it has a lower time compexityAdd comment
